@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-centro-computo-b-9-prestamo-equipo",
+  "version": "1.0.0",
+  "description": "Sistema para administrar el prestamo de equipo para los estudiantes (backend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhumadaSonny/Rest-api-centro-computo-prestamo-equipo.git"
+  },
+  "author": "Sonny Mijael Arce Ahumada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhumadaSonny/Rest-api-centro-computo-prestamo-equipo/issues"
+  },
+  "homepage": "https://github.com/AhumadaSonny/Rest-api-centro-computo-prestamo-equipo#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
